@@ -87,3 +87,26 @@ body {
   text-align: center;
   padding: 60px;
 }
+#title2 {
+  width: 800px;
+  height: 70px;
+  background-color: slategrey;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  position: absolute;
+  margin: 300px;
+  margin-right: 50px;
+  font-size: 45px;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  padding: 10px;
+  word-spacing: 1.5rem;
+  font-size: 50px;
+}
+#rrr {
+  width: 820px;
+  height: 75px;
+  border: 4px purple solid;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
